@@ -1,0 +1,37 @@
+2014-12-06 13:31:11 INFO  Program:19 - Application begins.
+2014-12-06 13:31:11 ERROR Program:28 - commons.exceptions.InvalidConfigException: Config file contains invalid information.
+2014-12-06 13:32:13 INFO  Program:19 - Application begins.
+2014-12-06 13:32:13 ERROR Program:28 - commons.exceptions.InvalidConfigException: Config file contains invalid information.
+2014-12-06 13:32:59 INFO  Program:19 - Application begins.
+2014-12-06 13:34:30 INFO  Program:19 - Application begins.
+2014-12-06 13:34:30 INFO  ConfigServer:136 - Initialize config server ...
+2014-12-06 13:34:31 INFO  ConfigServer:139 - Server listening on port: 50000
+2014-12-06 13:34:54 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=START]
+2014-12-06 13:34:54 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=START]
+2014-12-06 13:36:02 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=START]
+2014-12-06 13:36:03 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=SET_WRITE_LOCK]
+2014-12-06 13:36:03 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=ADD_MOVE_DATA]
+2014-12-06 13:50:02 INFO  Program:19 - Application begins.
+2014-12-06 13:50:02 INFO  ConfigServer:136 - Initialize config server ...
+2014-12-06 13:50:02 INFO  ConfigServer:139 - Server listening on port: 50000
+2014-12-06 13:50:21 INFO  Program:19 - Application begins.
+2014-12-06 13:50:21 INFO  ConfigServer:136 - Initialize config server ...
+2014-12-06 13:50:21 INFO  ConfigServer:139 - Server listening on port: 50000
+2014-12-06 13:50:35 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=START]
+2014-12-06 13:50:35 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=START]
+2014-12-06 14:00:18 INFO  Program:19 - Application begins.
+2014-12-06 14:00:18 INFO  ConfigServer:136 - Initialize config server ...
+2014-12-06 14:00:18 INFO  ConfigServer:139 - Server listening on port: 50000
+2014-12-06 14:00:46 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=START]
+2014-12-06 14:00:46 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=START]
+2014-12-06 15:00:21 INFO  Program:19 - Application begins.
+2014-12-06 15:00:21 INFO  ConfigServer:136 - Initialize config server ...
+2014-12-06 15:00:21 INFO  ConfigServer:139 - Server listening on port: 50000
+2014-12-06 15:00:33 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=START]
+2014-12-06 15:00:33 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=START]
+2014-12-06 15:00:41 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=START]
+2014-12-06 15:00:42 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=SET_WRITE_LOCK]
+2014-12-06 15:00:42 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=ADD_MOVE_DATA]
+2014-12-06 15:00:46 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=SET_WRITE_LOCK]
+2014-12-06 15:00:46 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=UPDATE_META_INFO]
+2014-12-06 15:00:46 INFO  ClientDialogue:49 - Sent: CommandToServerMessage [status=REMOVE_MOVE_DATA]

@@ -1,0 +1,18 @@
+2014-12-06 13:35:03 INFO  Program:16 - Program begins.
+2014-12-06 13:35:31 INFO  ClientDialogue:49 - Sent: KeyValueMessage [key=vasif, value=h]
+2014-12-06 13:35:31 INFO  ClientSocketListener:27 - Received: KeyValueMessage [key=vasif, value=h]
+2014-12-06 13:35:36 INFO  ClientDialogue:49 - Sent: KeyValueMessage [key=vasif, value=null]
+2014-12-06 13:35:36 INFO  ClientSocketListener:27 - Received: KeyValueMessage [key=vasif, value=h]
+2014-12-06 13:35:42 ERROR Client:48 - Unknown command.
+commons.exceptions.UnknownCommandException: Unknown command.
+	at client.models.Client.runNextCommand(Client.java:60)
+	at client.models.Client.doJob(Client.java:43)
+	at Program.main(Program.java:18)
+2014-12-06 13:50:41 INFO  Program:16 - App begins...
+2014-12-06 13:50:56 INFO  ClientDialogue:49 - Sent: EchoMessage [text=hi]
+2014-12-06 13:50:56 INFO  ClientSocketListener:27 - Received: EchoMessage [text=hi]
+2014-12-06 13:51:09 INFO  ClientDialogue:49 - Sent: EchoMessage [text=salam vasid]
+2014-12-06 13:51:09 INFO  ClientSocketListener:27 - Received: EchoMessage [text=salam vasid]
+2014-12-06 13:51:16 INFO  ClientDialogue:49 - Sent: EchoMessage [text=salam Vasif]
+2014-12-06 13:51:16 INFO  ClientSocketListener:27 - Received: EchoMessage [text=salam Vasif]
+2014-12-06 14:00:35 INFO  Program:16 - App begins...
